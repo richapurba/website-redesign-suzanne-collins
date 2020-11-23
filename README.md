@@ -3,8 +3,8 @@
 This is a website redesign from suzannecollinsbook.
 
 To-Do:
-1. Design the desktop look version
-2. Design the mobile look version
+1. Design the desktop look version      (done)
+2. Design the mobile look version       (done)
 3. Create main html layout for desktop
 4. Create biography html layout for desktop
 5. Create works html layout for desktop
