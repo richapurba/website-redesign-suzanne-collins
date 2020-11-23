@@ -6,6 +6,19 @@ body {
     margin: 0;
     padding: 0;
     display: block;
+    width: 100%;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 17px;
+    user-select: none;
+    background-color: #ffffff;
+}
+#side-footer {
+    background-color: #ffc771;
+    width: 300px;
+}
+.author {
+    color: #d16624;
+}
+#person {
+    color: #ff914d;
 }
