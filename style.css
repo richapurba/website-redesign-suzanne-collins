@@ -24,17 +24,26 @@ body {
 }
 .footer-img {
     width: 90%;
-    position: absolute;
     padding-left: 5%;
-    margin: 10px 0 30% 0;
+    margin: 0 0 10% 0;
+
 }
 .author {
     color: #d16624;
     padding: 0;
+    margin-left: ;
+    font-size: 50px;
 }
 #person {
     color: #ff914d;
+
 }
 button {
-    
+    background-color: #d16624;
+    color: #ffffff;
+    font-size: large;
+    font-weight: 600;
+    border-radius: 4px;
+    width: ;
+    padding: 3px 6px;
 }
