@@ -20,10 +20,21 @@ body {
     height: max-content;
     padding: 150px 0;
     position: fixed;
+    display: table-column-group;
+}
+.footer-img {
+    width: 90%;
+    position: absolute;
+    padding-left: 5%;
+    margin: 10px 0 30% 0;
 }
 .author {
     color: #d16624;
+    padding: 0;
 }
 #person {
     color: #ff914d;
+}
+button {
+    
 }
