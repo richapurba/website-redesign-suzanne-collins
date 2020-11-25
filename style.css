@@ -35,14 +35,27 @@ body {
 }
 #person {
     color: #ff914d;
-
+    margin-left: 20%;
 }
 button {
     background-color: #d16624;
     color: #ffffff;
     font-size: large;
     font-weight: 600;
+    border: 1px solid #d16624;
     border-radius: 4px;
-    width: ;
+    width: 150px;
     padding: 3px 6px;
+}
+.copyright,
+.richa {
+    font-weight: 501;
+    text-align: center;
+    margin-top: 20%;
+}
+.copyright {
+    font-size: 16px;
+}
+.richa {
+    font-size: 15px;
 }
