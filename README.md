@@ -4,9 +4,9 @@ This is a website redesign from suzannecollinsbooks.com. I did this simple websi
 This is such a crazy challenge that I made, because I've decided that I won't change the whole content from the original website, either the text, color, or the images. I will only change the way it looks, I mean the design using pure CSS. Although I already know how to use Bootstrap, I think that this is a perfect method to upgrade my skill in CSS. Additional note that I will add some text like "See more..." and "Rebuilt by Richa Purba" to watermark my project and take the design into a modern-minimalism look.
 
 To-Do:
-1. Design the desktop look version      (done)
-2. Design the mobile look version       (done)
-3. Create main html layout for desktop
+1. Design the desktop look version          (done)
+2. Design the mobile look version           (done)
+3. Create main html layout for desktop      (done)
 4. Create biography html layout for desktop
 5. Create works html layout for desktop
 6. Create interview html layout for desktop
