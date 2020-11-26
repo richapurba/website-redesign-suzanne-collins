@@ -14,6 +14,12 @@ body {
     scroll-behavior: smooth;
     background-color: #ffffff;
 }
+a {
+    text-decoration: none;
+}
+p {
+    color: rgb(31, 31, 31);
+}
 #side-footer {
     background-color: #ffc771;
     width: 300px;
@@ -34,10 +40,14 @@ body {
     margin: 175px 0 0 40px;
     font-size: 43px;
     text-transform: uppercase;
+    text-shadow: ;
 }
 #person {
     color: #ff914d;
     margin-left: 20%;
+}
+.official {
+    color: rgb(17, 17, 17);
 }
 button {
     background-color: #d16624;
