@@ -49,6 +49,9 @@ p {
 .official {
     color: rgb(17, 17, 17);
 }
+.official:hover {
+    text-decoration: underline;
+}
 button {
     background-color: #d16624;
     color: #faf3f3;
@@ -61,6 +64,7 @@ button {
     text-align: center;
     justify-content: center;
     box-shadow: 2px 1px 4px #4b3434;
+    cursor: pointer;
 }
 .copyright,
 .richa {
@@ -83,6 +87,9 @@ button {
 .designer {
     color: #538f71;
 }
+.designer:hover {
+    text-decoration: underline;
+}
 nav {
     top: 25px;
     right: 0;
@@ -103,11 +110,12 @@ nav {
     font-weight: 501;
     margin-right: 70px;
     text-shadow: 2px 1px 3px #4b3434;
-
+}
+.navigation:hover {
+    color: #ff914d;
 }
 .active {
     color: #ff914d;
-    border-bottom: 4px solid #d16624;
 }
 .reviews {
     width: 450px;
