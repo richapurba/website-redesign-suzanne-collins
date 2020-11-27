@@ -109,3 +109,7 @@ nav {
     color: #ff914d;
     border-bottom: 4px solid #d16624;
 }
+.reviews {
+    width: 350px;
+    float: right;
+}
