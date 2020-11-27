@@ -86,6 +86,7 @@ button {
 nav {
     top: 25px;
     right: 0;
+    height: 50px;
     position: fixed;
 }
 .main-nav {
@@ -102,7 +103,9 @@ nav {
     font-weight: 501;
     margin-right: 70px;
     text-shadow: 2px 1px 3px #4b3434;
+
 }
 .active {
+    color: #ff914d;
     border-bottom: 4px solid #d16624;
 }
