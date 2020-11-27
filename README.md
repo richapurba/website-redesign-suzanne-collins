@@ -13,3 +13,12 @@ To-Do:
 7. Fill out the layout with all contents from the official website
 8. Design the whole layout
 9. Make it responsive
+
+Homepage to-do list:
+1. Design the fixed side footer
+2. Design the main navbar
+3. Add 3D mockup book animation
+4. Add reviews automatic carousel
+5. Add ranks automatic changing text
+6. Design the "Get it now" button
+7. Design the welcome message
