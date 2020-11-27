@@ -110,6 +110,24 @@ nav {
     border-bottom: 4px solid #d16624;
 }
 .reviews {
-    width: 350px;
+    width: 450px;
     float: right;
+}
+.comment,
+.reviewer {
+    justify-content: center;
+    text-align: center;
+}
+.comment {
+    padding: 30px 30px 45px 30px;
+    border: 3px solid #d16624;
+    border-radius: 10px;
+}
+.reviewer {
+    font-weight: bold;
+    color: #faf3f3;
+    height: 25px;
+    width: 300px;
+    background-color: #d16624;
+    border-radius: 3px;
 }
