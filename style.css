@@ -125,12 +125,11 @@ nav {
 .featured-book {
     margin-top: 100px;
 }
-
-
-
 .reviews {
     width: 450px;
     float: right;
+    margin-right: 100px;
+    overflow: hidden;
 }
 .comment,
 .reviewer {
