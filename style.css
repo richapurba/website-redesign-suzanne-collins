@@ -5,7 +5,7 @@
 body {
     margin: 0;
     padding: 0;
-    display: flexbox;
+    display: grid;
     width: 100%;
     height: 100%;
     font-family: 'Josefin Sans', sans-serif;
@@ -20,7 +20,8 @@ a {
 p {
     color: rgb(31, 31, 31);
 }
-/*#side-footer {
+/*
+#side-footer {
     background-color: #ffc771;
     width: 300px;
     height: max-content;
@@ -150,3 +151,14 @@ nav {
     border-radius: 3px;
 }
 */
+.column1 {
+/*  background-color: #ffc771;
+    float: left;
+    height: max-content;
+    position: fixed;
+*/
+    grid-column-start: auto;
+}
+.column2 {
+    grid-column-end: auto;
+}
